@@ -286,14 +286,15 @@ svg rect {
     height: 0px;
   }
 }
-.logotext {
-  font-family: "Bebas Neue", cursive;
-  font-size: 72px;
-  background: -webkit-linear-gradient(#38d0ed, #cff9f5);
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-}
 .nebHeader {
+  font-family: "Bebas Neue", cursive;
+  background-color: #f3ec78;
+  background-image: linear-gradient(0deg, #31cfec, #dff4ff);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
   display: flex;
   align-items: center;
   justify-content: center;
