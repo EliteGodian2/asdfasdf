@@ -301,7 +301,7 @@ ul li {
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 .settings-cont {
-  background: #45454521; 
+    background: #45454521; 
     box-sizing: border-box;
     width: 300px;
     height: 246px;
