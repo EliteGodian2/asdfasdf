@@ -34,7 +34,7 @@
   top: 0;
   left: 0;
   right: 0;
-  background-color: var(--navbar-color);
+  background-color: black;
 }
 .sidenav-btn {
   display: none;
